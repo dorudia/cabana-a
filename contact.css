@@ -170,6 +170,14 @@
     background-color: rgb(241, 241, 241);
     
 }
+.copyright {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: white;
+}
 
 .menu {
     position: absolute;
