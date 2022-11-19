@@ -31,7 +31,7 @@
     transition: all 0.7s;
 }
 .change .hamburger-menu .line {
-    background-color: rgb(49, 49, 49);
+    background-color: #ddd;
     box-shadow: none;
     height: 4px;
 }
@@ -167,7 +167,7 @@
 }
 .change .sidebar {
     transform: translateX(0);
-    background-color: rgb(241, 241, 241);
+    background-color: #444;
     
 }
 .copyright {
@@ -199,7 +199,7 @@
     font-size: 28px;
     letter-spacing: 1px;
     font-weight: 900;
-    color: rgb(128, 128, 128);
+    color: #ddd;
     cursor: pointer;
     position: relative;
     overflow: hidden;

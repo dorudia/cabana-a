@@ -31,7 +31,7 @@
     transition: all 0.7s;
 }
 .change .hamburger-menu .line {
-    background-color: rgb(49, 49, 49);
+    background-color: #ddd;
     box-shadow: none;
     height: 4px;
 }
@@ -59,7 +59,7 @@
 .img-fundal {
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.623);
     overflow: hidden;
 }
 .img-fundal img {
@@ -159,7 +159,7 @@
 }
 .change .sidebar {
     transform: translateX(0);
-    background-color: rgb(226, 226, 226);
+    background-color: #444;
     
 }
 
@@ -183,7 +183,7 @@
     font-size: 28px;
     letter-spacing: 1px;
     font-weight: 900;
-    color: rgb(128, 128, 128);
+    color: #ddd;
     cursor: pointer;
     position: relative;
     overflow: hidden;
